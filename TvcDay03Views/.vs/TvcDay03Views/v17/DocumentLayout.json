@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Devmaster.edu.vn\\UTCK64CNTT1\\UTCK64CNT1-LTW\\TvcDay03Views\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA6ED335-DEBC-4282-B8DF-491779D29F8E}|TvcDay03Views.csproj|e:\\devmaster.edu.vn\\utck64cntt1\\utck64cnt1-ltw\\tvcday03views\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA6ED335-DEBC-4282-B8DF-491779D29F8E}|TvcDay03Views.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA6ED335-DEBC-4282-B8DF-491779D29F8E}|TvcDay03Views.csproj|e:\\devmaster.edu.vn\\utck64cntt1\\utck64cnt1-ltw\\tvcday03views\\views\\shared\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA6ED335-DEBC-4282-B8DF-491779D29F8E}|TvcDay03Views.csproj|solutionrelative:views\\shared\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA6ED335-DEBC-4282-B8DF-491779D29F8E}|TvcDay03Views.csproj|e:\\devmaster.edu.vn\\utck64cntt1\\utck64cnt1-ltw\\tvcday03views\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA6ED335-DEBC-4282-B8DF-491779D29F8E}|TvcDay03Views.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA6ED335-DEBC-4282-B8DF-491779D29F8E}|TvcDay03Views.csproj|e:\\devmaster.edu.vn\\utck64cntt1\\utck64cnt1-ltw\\tvcday03views\\views\\home\\viewbagdemo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA6ED335-DEBC-4282-B8DF-491779D29F8E}|TvcDay03Views.csproj|solutionrelative:views\\home\\viewbagdemo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA6ED335-DEBC-4282-B8DF-491779D29F8E}|TvcDay03Views.csproj|e:\\devmaster.edu.vn\\utck64cntt1\\utck64cnt1-ltw\\tvcday03views\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA6ED335-DEBC-4282-B8DF-491779D29F8E}|TvcDay03Views.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_navBar.cshtml",
+              "DocumentMoniker": "E:\\Devmaster.edu.vn\\UTCK64CNTT1\\UTCK64CNT1-LTW\\TvcDay03Views\\Views\\Shared\\_navBar.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_navBar.cshtml",
+              "ToolTip": "E:\\Devmaster.edu.vn\\UTCK64CNTT1\\UTCK64CNT1-LTW\\TvcDay03Views\\Views\\Shared\\_navBar.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_navBar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAB1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-29T02:18:54.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\Devmaster.edu.vn\\UTCK64CNTT1\\UTCK64CNT1-LTW\\TvcDay03Views\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\Devmaster.edu.vn\\UTCK64CNTT1\\UTCK64CNT1-LTW\\TvcDay03Views\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxEAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-29T02:18:13.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ViewBagDemo.cshtml",
+              "DocumentMoniker": "E:\\Devmaster.edu.vn\\UTCK64CNTT1\\UTCK64CNT1-LTW\\TvcDay03Views\\Views\\Home\\ViewBagDemo.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\ViewBagDemo.cshtml",
+              "ToolTip": "E:\\Devmaster.edu.vn\\UTCK64CNTT1\\UTCK64CNT1-LTW\\TvcDay03Views\\Views\\Home\\ViewBagDemo.cshtml",
+              "RelativeToolTip": "Views\\Home\\ViewBagDemo.cshtml",
+              "ViewState": "AQIAABAAAAAAAAAAAAAYwBsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-29T01:49:41.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Devmaster.edu.vn\\UTCK64CNTT1\\UTCK64CNT1-LTW\\TvcDay03Views\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\Devmaster.edu.vn\\UTCK64CNTT1\\UTCK64CNT1-LTW\\TvcDay03Views\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwCkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-29T01:13:27.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\Devmaster.edu.vn\\UTCK64CNTT1\\UTCK64CNT1-LTW\\TvcDay03Views\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "E:\\Devmaster.edu.vn\\UTCK64CNTT1\\UTCK64CNT1-LTW\\TvcDay03Views\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAYwDcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T01:12:06.736Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

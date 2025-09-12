@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TvcDay03Views", "TvcDay03Views.csproj", "{DA6ED335-DEBC-4282-B8DF-491779D29F8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TvcDay03_Review", "..\TvcDay03_Review\TvcDay03_Review.csproj", "{01DD0D38-B6EB-499F-8AFC-CC9A90821B80}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA6ED335-DEBC-4282-B8DF-491779D29F8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA6ED335-DEBC-4282-B8DF-491779D29F8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA6ED335-DEBC-4282-B8DF-491779D29F8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA6ED335-DEBC-4282-B8DF-491779D29F8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01DD0D38-B6EB-499F-8AFC-CC9A90821B80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01DD0D38-B6EB-499F-8AFC-CC9A90821B80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01DD0D38-B6EB-499F-8AFC-CC9A90821B80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01DD0D38-B6EB-499F-8AFC-CC9A90821B80}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0409897B-D36D-4794-8782-5F38BEC8199C}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,70 @@
+﻿
+@{
+    ViewData["Title"] = "ViewBagDemo";
+    var student = ViewBag.student as TvcDay03Views.Models.Student;
+    var students = ViewBag.students as List<TvcDay03Views.Models.Student>;
+}
+
+<h1>ViewBagDemo</h1>
+<hr/>
+<h2>Welcome to, @ViewBag.name</h2>
+<p>Thông tin sinh viên</p>
+<p>Mã: @student.Id</p>
+<p>Tên: @student.Name</p>
+<p>Tuổi: @student.Age</p>
+<p>Giới tính: @student.Gender</p>
+<p>Tình trạng: 
+    @if(student.IsActive == true)
+    {
+        <text>Đang học</text>
+    }
+    else
+    {
+        <text>Đã nghi</text>
+    }
+ </p>
+
+ <h2>Danh sách sinh viên</h2>
+ <table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Tuổi</th>
+            <th>Giới tinh</th>
+            <th>Tình trạng</th>
+            <th>Chức năng</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (students != null)
+        {
+            foreach (var item in students)
+            {
+                <tr>
+                    <td>@item.Id</td>
+                    <td>@item.Name</td>
+                    <td>@item.Age</td>
+                    <td>@item.Gender</td>
+                    <td>
+                        @if (student.IsActive == true)
+                        {
+                            <text>Đang học</text>
+                        }
+                        else
+                        {
+                            <text>Đã nghi</text>
+                        }
+                    </td>
+                    <td>
+                        <a href="#" class="btn btn-info">Xem</a>
+                        <a href="#" class="btn btn-success">Sửa</a>
+
+                        <a href="#" class="btn btn-danger">Xóa</a>
+
+                    </td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>

@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Devmaster.edu.vn\\UTCK64CNTT1\\UTCK64CNT1-LTW\\TvcDay04Layout\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15093A16-D833-486B-AFDA-997DAEEDD59F}|TvcDay04Layout.csproj|e:\\devmaster.edu.vn\\utck64cntt1\\utck64cnt1-ltw\\tvcday04layout\\views\\shared\\_layoutadmins.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15093A16-D833-486B-AFDA-997DAEEDD59F}|TvcDay04Layout.csproj|solutionrelative:views\\shared\\_layoutadmins.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15093A16-D833-486B-AFDA-997DAEEDD59F}|TvcDay04Layout.csproj|e:\\devmaster.edu.vn\\utck64cntt1\\utck64cnt1-ltw\\tvcday04layout\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15093A16-D833-486B-AFDA-997DAEEDD59F}|TvcDay04Layout.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15093A16-D833-486B-AFDA-997DAEEDD59F}|TvcDay04Layout.csproj|e:\\devmaster.edu.vn\\utck64cntt1\\utck64cnt1-ltw\\tvcday04layout\\views\\shared\\_leftmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15093A16-D833-486B-AFDA-997DAEEDD59F}|TvcDay04Layout.csproj|solutionrelative:views\\shared\\_leftmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15093A16-D833-486B-AFDA-997DAEEDD59F}|TvcDay04Layout.csproj|e:\\devmaster.edu.vn\\utck64cntt1\\utck64cnt1-ltw\\tvcday04layout\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{15093A16-D833-486B-AFDA-997DAEEDD59F}|TvcDay04Layout.csproj|solutionrelative:scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15093A16-D833-486B-AFDA-997DAEEDD59F}|TvcDay04Layout.csproj|e:\\devmaster.edu.vn\\utck64cntt1\\utck64cnt1-ltw\\tvcday04layout\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{15093A16-D833-486B-AFDA-997DAEEDD59F}|TvcDay04Layout.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15093A16-D833-486B-AFDA-997DAEEDD59F}|TvcDay04Layout.csproj|e:\\devmaster.edu.vn\\utck64cntt1\\utck64cnt1-ltw\\tvcday04layout\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15093A16-D833-486B-AFDA-997DAEEDD59F}|TvcDay04Layout.csproj|solutionrelative:views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15093A16-D833-486B-AFDA-997DAEEDD59F}|TvcDay04Layout.csproj|e:\\devmaster.edu.vn\\utck64cntt1\\utck64cnt1-ltw\\tvcday04layout\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15093A16-D833-486B-AFDA-997DAEEDD59F}|TvcDay04Layout.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15093A16-D833-486B-AFDA-997DAEEDD59F}|TvcDay04Layout.csproj|e:\\devmaster.edu.vn\\utck64cntt1\\utck64cnt1-ltw\\tvcday04layout\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15093A16-D833-486B-AFDA-997DAEEDD59F}|TvcDay04Layout.csproj|solutionrelative:views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15093A16-D833-486B-AFDA-997DAEEDD59F}|TvcDay04Layout.csproj|e:\\devmaster.edu.vn\\utck64cntt1\\utck64cnt1-ltw\\tvcday04layout\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15093A16-D833-486B-AFDA-997DAEEDD59F}|TvcDay04Layout.csproj|solutionrelative:views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_LayoutAdmins.cshtml",
+              "DocumentMoniker": "E:\\Devmaster.edu.vn\\UTCK64CNTT1\\UTCK64CNT1-LTW\\TvcDay04Layout\\Views\\Shared\\_LayoutAdmins.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LayoutAdmins.cshtml",
+              "ToolTip": "E:\\Devmaster.edu.vn\\UTCK64CNTT1\\UTCK64CNT1-LTW\\TvcDay04Layout\\Views\\Shared\\_LayoutAdmins.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LayoutAdmins.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-12T02:08:52.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "E:\\Devmaster.edu.vn\\UTCK64CNTT1\\UTCK64CNT1-LTW\\TvcDay04Layout\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "ScaffoldingReadMe.txt",
+              "ToolTip": "E:\\Devmaster.edu.vn\\UTCK64CNTT1\\UTCK64CNT1-LTW\\TvcDay04Layout\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-09-12T02:07:08.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "site.css",
+              "DocumentMoniker": "E:\\Devmaster.edu.vn\\UTCK64CNTT1\\UTCK64CNT1-LTW\\TvcDay04Layout\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "E:\\Devmaster.edu.vn\\UTCK64CNTT1\\UTCK64CNT1-LTW\\TvcDay04Layout\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA2wBsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-09-12T02:03:43.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_LeftMenu.cshtml",
+              "DocumentMoniker": "E:\\Devmaster.edu.vn\\UTCK64CNTT1\\UTCK64CNT1-LTW\\TvcDay04Layout\\Views\\Shared\\_LeftMenu.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LeftMenu.cshtml",
+              "ToolTip": "E:\\Devmaster.edu.vn\\UTCK64CNTT1\\UTCK64CNT1-LTW\\TvcDay04Layout\\Views\\Shared\\_LeftMenu.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LeftMenu.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-12T01:52:22.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "E:\\Devmaster.edu.vn\\UTCK64CNTT1\\UTCK64CNT1-LTW\\TvcDay04Layout\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\About.cshtml",
+              "ToolTip": "E:\\Devmaster.edu.vn\\UTCK64CNTT1\\UTCK64CNT1-LTW\\TvcDay04Layout\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-12T01:23:56.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\Devmaster.edu.vn\\UTCK64CNTT1\\UTCK64CNT1-LTW\\TvcDay04Layout\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "E:\\Devmaster.edu.vn\\UTCK64CNTT1\\UTCK64CNT1-LTW\\TvcDay04Layout\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAswBkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T01:21:34.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\Devmaster.edu.vn\\UTCK64CNTT1\\UTCK64CNT1-LTW\\TvcDay04Layout\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\Devmaster.edu.vn\\UTCK64CNTT1\\UTCK64CNT1-LTW\\TvcDay04Layout\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-12T01:12:50.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Footer.cshtml",
+              "DocumentMoniker": "E:\\Devmaster.edu.vn\\UTCK64CNTT1\\UTCK64CNT1-LTW\\TvcDay04Layout\\Views\\Shared\\_Footer.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Footer.cshtml",
+              "ToolTip": "E:\\Devmaster.edu.vn\\UTCK64CNTT1\\UTCK64CNT1-LTW\\TvcDay04Layout\\Views\\Shared\\_Footer.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Footer.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-12T01:16:00.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Header.cshtml",
+              "DocumentMoniker": "E:\\Devmaster.edu.vn\\UTCK64CNTT1\\UTCK64CNT1-LTW\\TvcDay04Layout\\Views\\Shared\\_Header.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Header.cshtml",
+              "ToolTip": "E:\\Devmaster.edu.vn\\UTCK64CNTT1\\UTCK64CNT1-LTW\\TvcDay04Layout\\Views\\Shared\\_Header.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Header.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-12T01:13:17.043Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
