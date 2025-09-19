@@ -1,0 +1,30 @@
+﻿
+@{
+    ViewData["Title"] = "ListUser";
+    var modelUser = ViewBag.ListUser as List<TvcDay05Model.Models.User>;
+}
+
+<h1>ListUser</h1>
+<hr/>
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Addresss</th>
+            <th>Email</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in modelUser)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.Name</td>
+                <td>@item.Address</td>
+                <td>@item.Email</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
