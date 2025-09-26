@@ -1,0 +1,14 @@
+﻿@model TvcDay06Annotation.Models.User
+@{
+    ViewData["Title"] = "UserManualValid";
+}
+
+<h1>UserManualValid</h1>
+<form asp-action="UserManualValid" asp-controller="Users" method="post">
+    <div>
+        <label>Password</label>
+        <input type="password" asp-for="Password"  />
+        <span class="text-danger">@ViewBag.PassErr</span>
+    </div>
+    <input type="submit" value="check" />
+</form>
