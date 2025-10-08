@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Devmaster.edu.vn\\UTCK64CNTT1\\UTCK64CNT1-LTW\\TvcDay08EFCF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1154CFDD-01C6-47DB-A461-E15C52882B90}|TvcDay08EFCF.csproj|e:\\devmaster.edu.vn\\utck64cntt1\\utck64cnt1-ltw\\tvcday08efcf\\areas\\admins\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1154CFDD-01C6-47DB-A461-E15C52882B90}|TvcDay08EFCF.csproj|solutionrelative:areas\\admins\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1154CFDD-01C6-47DB-A461-E15C52882B90}|TvcDay08EFCF.csproj|e:\\devmaster.edu.vn\\utck64cntt1\\utck64cnt1-ltw\\tvcday08efcf\\areas\\admins\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1154CFDD-01C6-47DB-A461-E15C52882B90}|TvcDay08EFCF.csproj|solutionrelative:areas\\admins\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1154CFDD-01C6-47DB-A461-E15C52882B90}|TvcDay08EFCF.csproj|e:\\devmaster.edu.vn\\utck64cntt1\\utck64cnt1-ltw\\tvcday08efcf\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1154CFDD-01C6-47DB-A461-E15C52882B90}|TvcDay08EFCF.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1154CFDD-01C6-47DB-A461-E15C52882B90}|TvcDay08EFCF.csproj|e:\\devmaster.edu.vn\\utck64cntt1\\utck64cnt1-ltw\\tvcday08efcf\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1154CFDD-01C6-47DB-A461-E15C52882B90}|TvcDay08EFCF.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Devmaster.edu.vn\\UTCK64CNTT1\\UTCK64CNT1-LTW\\TvcDay08EFCF\\Migrations\\20251008092100_V2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20251008092100_V2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1154CFDD-01C6-47DB-A461-E15C52882B90}|TvcDay08EFCF.csproj|e:\\devmaster.edu.vn\\utck64cntt1\\utck64cnt1-ltw\\tvcday08efcf\\models\\k64cnt1dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1154CFDD-01C6-47DB-A461-E15C52882B90}|TvcDay08EFCF.csproj|solutionrelative:models\\k64cnt1dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1154CFDD-01C6-47DB-A461-E15C52882B90}|TvcDay08EFCF.csproj|e:\\devmaster.edu.vn\\utck64cntt1\\utck64cnt1-ltw\\tvcday08efcf\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1154CFDD-01C6-47DB-A461-E15C52882B90}|TvcDay08EFCF.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1154CFDD-01C6-47DB-A461-E15C52882B90}|TvcDay08EFCF.csproj|e:\\devmaster.edu.vn\\utck64cntt1\\utck64cnt1-ltw\\tvcday08efcf\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1154CFDD-01C6-47DB-A461-E15C52882B90}|TvcDay08EFCF.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1154CFDD-01C6-47DB-A461-E15C52882B90}|TvcDay08EFCF.csproj|e:\\devmaster.edu.vn\\utck64cntt1\\utck64cnt1-ltw\\tvcday08efcf\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1154CFDD-01C6-47DB-A461-E15C52882B90}|TvcDay08EFCF.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "E:\\Devmaster.edu.vn\\UTCK64CNTT1\\UTCK64CNT1-LTW\\TvcDay08EFCF\\Areas\\Admins\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admins\\Controllers\\ProductsController.cs",
+              "ToolTip": "E:\\Devmaster.edu.vn\\UTCK64CNTT1\\UTCK64CNT1-LTW\\TvcDay08EFCF\\Areas\\Admins\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Areas\\Admins\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T09:42:16.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "E:\\Devmaster.edu.vn\\UTCK64CNTT1\\UTCK64CNT1-LTW\\TvcDay08EFCF\\Areas\\Admins\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admins\\Controllers\\CategoriesController.cs",
+              "ToolTip": "E:\\Devmaster.edu.vn\\UTCK64CNTT1\\UTCK64CNT1-LTW\\TvcDay08EFCF\\Areas\\Admins\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Areas\\Admins\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAA5wAkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T09:40:36.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20251008092100_V2.cs",
+              "DocumentMoniker": "E:\\Devmaster.edu.vn\\UTCK64CNTT1\\UTCK64CNT1-LTW\\TvcDay08EFCF\\Migrations\\20251008092100_V2.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251008092100_V2.cs",
+              "ToolTip": "E:\\Devmaster.edu.vn\\UTCK64CNTT1\\UTCK64CNT1-LTW\\TvcDay08EFCF\\Migrations\\20251008092100_V2.cs",
+              "RelativeToolTip": "Migrations\\20251008092100_V2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T09:21:01.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "E:\\Devmaster.edu.vn\\UTCK64CNTT1\\UTCK64CNT1-LTW\\TvcDay08EFCF\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Models\\Customer.cs",
+              "ToolTip": "E:\\Devmaster.edu.vn\\UTCK64CNTT1\\UTCK64CNT1-LTW\\TvcDay08EFCF\\Models\\Customer.cs",
+              "RelativeToolTip": "Models\\Customer.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAowAQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T09:18:28.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "K64CNT1DbContext.cs",
+              "DocumentMoniker": "E:\\Devmaster.edu.vn\\UTCK64CNTT1\\UTCK64CNT1-LTW\\TvcDay08EFCF\\Models\\K64CNT1DbContext.cs",
+              "RelativeDocumentMoniker": "Models\\K64CNT1DbContext.cs",
+              "ToolTip": "E:\\Devmaster.edu.vn\\UTCK64CNTT1\\UTCK64CNT1-LTW\\TvcDay08EFCF\\Models\\K64CNT1DbContext.cs",
+              "RelativeToolTip": "Models\\K64CNT1DbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T09:09:09.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Devmaster.edu.vn\\UTCK64CNTT1\\UTCK64CNT1-LTW\\TvcDay08EFCF\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Devmaster.edu.vn\\UTCK64CNTT1\\UTCK64CNT1-LTW\\TvcDay08EFCF\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T09:06:46.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Devmaster.edu.vn\\UTCK64CNTT1\\UTCK64CNT1-LTW\\TvcDay08EFCF\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\Devmaster.edu.vn\\UTCK64CNTT1\\UTCK64CNT1-LTW\\TvcDay08EFCF\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-08T09:04:16.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\Devmaster.edu.vn\\UTCK64CNTT1\\UTCK64CNT1-LTW\\TvcDay08EFCF\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "E:\\Devmaster.edu.vn\\UTCK64CNTT1\\UTCK64CNT1-LTW\\TvcDay08EFCF\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T08:59:35.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Category.cs",
+              "DocumentMoniker": "E:\\Devmaster.edu.vn\\UTCK64CNTT1\\UTCK64CNT1-LTW\\TvcDay08EFCF\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "E:\\Devmaster.edu.vn\\UTCK64CNTT1\\UTCK64CNT1-LTW\\TvcDay08EFCF\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T08:57:46.571Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
