@@ -25,15 +25,15 @@ namespace TvcDay09LabCF.Controllers
         }
 
         // GET: TvcLoai_San_Pham/Details/5
-        public async Task<IActionResult> Details(long? id)
+        public async Task<IActionResult> tvcDetails(long? tvcId)
         {
-            if (id == null)
+            if (tvcId == null)
             {
                 return NotFound();
             }
 
             var tvcLoai_San_Pham = await _context.tvcLoai_San_Phams
-                .FirstOrDefaultAsync(m => m.tvcId == id);
+                .FirstOrDefaultAsync(m => m.tvcId == tvcId);
             if (tvcLoai_San_Pham == null)
             {
                 return NotFound();
@@ -116,15 +116,15 @@ namespace TvcDay09LabCF.Controllers
         }
 
         // GET: TvcLoai_San_Pham/Delete/5
-        public async Task<IActionResult> Delete(long? id)
+        public async Task<IActionResult> tvcDelete(long? tvcId)
         {
-            if (id == null)
+            if (tvcId == null)
             {
                 return NotFound();
             }
 
             var tvcLoai_San_Pham = await _context.tvcLoai_San_Phams
-                .FirstOrDefaultAsync(m => m.tvcId == id);
+                .FirstOrDefaultAsync(m => m.tvcId == tvcId);
             if (tvcLoai_San_Pham == null)
             {
                 return NotFound();
@@ -134,23 +134,23 @@ namespace TvcDay09LabCF.Controllers
         }
 
         // POST: TvcLoai_San_Pham/Delete/5
-        [HttpPost, ActionName("Delete")]
+        [HttpPost, ActionName("tvcDelete")]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> DeleteConfirmed(long id)
+        public async Task<IActionResult> DeleteConfirmed(long tvcId)
         {
-            var tvcLoai_San_Pham = await _context.tvcLoai_San_Phams.FindAsync(id);
+            var tvcLoai_San_Pham = await _context.tvcLoai_San_Phams.FindAsync(tvcId);
             if (tvcLoai_San_Pham != null)
             {
                 _context.tvcLoai_San_Phams.Remove(tvcLoai_San_Pham);
             }
 
             await _context.SaveChangesAsync();
-            return RedirectToAction(nameof(Index));
+            return RedirectToAction(nameof(tvcIndex));
         }
 
-        private bool TvcLoai_San_PhamExists(long id)
+        private bool TvcLoai_San_PhamExists(long tvcId)
         {
-            return _context.tvcLoai_San_Phams.Any(e => e.tvcId == id);
+            return _context.tvcLoai_San_Phams.Any(e => e.tvcId == tvcId);
         }
     }
 }

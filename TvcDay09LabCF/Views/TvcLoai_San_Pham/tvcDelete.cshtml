@@ -1,0 +1,56 @@
+﻿@model TvcDay09LabCF.Models.TvcLoai_San_Pham
+
+@{
+    ViewData["Title"] = "Xóa thông tin loại sản phẩm";
+}
+
+<div class="container mt-4">
+    <div class="card shadow-sm border-0">
+        <div class="card-header bg-primary text-white">
+            <h4 class="mb-0">@ViewData["Title"]</h4>
+        </div>
+
+        <div class="card-body">
+            <div class="row mb-0">
+                <div class="col-sm-3 fw-bold text-secondary">
+                    @Html.DisplayNameFor(model => model.tvcMaLoai)
+                </div>
+                <div class="col-sm-9">
+                    <span class="text-dark">@Html.DisplayFor(model => model.tvcMaLoai)</span>
+                </div>
+
+                <div class="col-sm-3 fw-bold text-secondary">
+                    @Html.DisplayNameFor(model => model.tvcTenLoai)
+                </div>
+                <div class="col-sm-9">
+                    <span class="text-dark">@Html.DisplayFor(model => model.tvcTenLoai)</span>
+                </div>
+
+                <div class="col-sm-3 fw-bold text-secondary">
+                    @Html.DisplayNameFor(model => model.tvcTrangThai)
+                </div>
+                <div class="col-sm-9">
+                    @if (Model.tvcTrangThai)
+                    {
+                        <span class="badge bg-success">Hoạt động</span>
+                    }
+                    else
+                    {
+                        <span class="badge bg-danger">Ngừng hoạt động</span>
+                    }
+                </div>
+            </div>
+        </div>
+
+        <div class="card-footer d-flex justify-content-between">
+            <form asp-action="tvcDelete">
+                <input type="hidden" asp-for="tvcId" />
+                <input type="submit" value="Delete" class="btn btn-danger" /> 
+            </form>
+            <a asp-action="tvcIndex" class="btn btn-secondary">
+                <i class="bi bi-arrow-left-circle"></i> Quay lại danh sách
+            </a>
+        </div>
+    </div>
+</div>
+

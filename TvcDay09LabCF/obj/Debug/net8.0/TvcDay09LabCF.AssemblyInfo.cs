@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TvcDay09LabCF")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d9b4284999dccd2b123cb54bed77d5a977254963")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5f36171775ba53c0ad2730aeee258b7967769bb2")]
 [assembly: System.Reflection.AssemblyProductAttribute("TvcDay09LabCF")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TvcDay09LabCF")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

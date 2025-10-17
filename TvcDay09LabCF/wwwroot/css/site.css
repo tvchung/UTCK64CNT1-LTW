@@ -20,3 +20,26 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+.card {
+    border-radius: 12px;
+}
+
+.card-header {
+    background: linear-gradient(90deg, #007bff, #00a8ff);
+}
+
+ 
+.card-header {
+    background: linear-gradient(90deg, #28a745, #20c997);
+}
+
+.form-control:focus {
+    border-color: #20c997;
+    box-shadow: 0 0 0 0.2rem rgba(32, 201, 151, 0.25);
+}
+
+.table-hover tbody tr:hover {
+    background-color: #f9f9f9;
+    transition: 0.2s;
+}

@@ -1,47 +1,58 @@
 ﻿@model IEnumerable<TvcDay09LabCF.Models.TvcLoai_San_Pham>
-
 @{
-    ViewData["Title"] = "Index";
+    ViewData["Title"] = "Danh sách loại sản phẩm";
 }
 
-<h1>Index</h1>
+<div class="container mt-4">
+    <div class="card shadow-lg border-0 rounded-3">
+        <div class="card-header bg-primary text-white d-flex justify-content-between align-items-center">
+            <h4 class="mb-0"><i class="bi bi-list-ul"></i> @ViewData["Title"]</h4>
+            <a asp-action="tvcCreate" class="btn btn-success">
+                <i class="bi bi-plus-circle"></i> Thêm mới
+            </a>
+        </div>
 
-<p>
-    <a asp-action="tvcCreate" class="btn btn-primary">Thêm mới</a>
-</p>
-<table class="table table-bordered">
-    <thead>
-        <tr>
-            <th>
-                @Html.DisplayNameFor(model => model.tvcMaLoai)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.tvcTenLoai)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.tvcTrangThai)
-            </th>
-            <th></th>
-        </tr>
-    </thead>
-    <tbody>
-@foreach (var item in Model) {
-        <tr>
-            <td>
-                @Html.DisplayFor(modelItem => item.tvcMaLoai)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.tvcTenLoai)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.tvcTrangThai)
-            </td>
-            <td>
-                <a asp-action="tvcEdit" asp-route-tvcId="@item.tvcId">Edit</a> |
-                    <a asp-action="Details" asp-route-tvcId="@item.tvcId">Details</a> |
-                    <a asp-action="Delete" asp-route-tvcId="@item.tvcId">Delete</a>
-            </td>
-        </tr>
-}
-    </tbody>
-</table>
+        <div class="card-body">
+            <table class="table table-hover align-middle">
+                <thead class="table-light">
+                    <tr class="text-center">
+                        <th>@Html.DisplayNameFor(model => model.First().tvcMaLoai)</th>
+                        <th>@Html.DisplayNameFor(model => model.First().tvcTenLoai)</th>
+                        <th>@Html.DisplayNameFor(model => model.First().tvcTrangThai)</th>
+                        <th style="width: 180px;">Thao tác</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td class="text-center fw-semibold">@item.tvcMaLoai</td>
+                            <td>@item.tvcTenLoai</td>
+                            <td class="text-center">
+                                @if (item.tvcTrangThai)
+                                {
+                                    <span class="badge bg-success"><i class="bi bi-check-circle"></i> Hoạt động</span>
+                                }
+                                else
+                                {
+                                    <span class="badge bg-danger"><i class="bi bi-x-circle"></i> Ngừng</span>
+                                }
+                            </td>
+                            <td class="text-center">
+                                <a asp-action="tvcEdit" asp-route-tvcId="@item.tvcId" class="btn btn-sm btn-warning text-white me-1">
+                                    <i class="bi bi-pencil-square"></i>
+                                </a>
+                                <a asp-action="tvcDetails" asp-route-tvcId="@item.tvcId" class="btn btn-sm btn-info text-white me-1">
+                                    <i class="bi bi-eye"></i>
+                                </a>
+                                <a asp-action="tvcDelete" asp-route-tvcId="@item.tvcId" class="btn btn-sm btn-danger">
+                                    <i class="bi bi-trash"></i>
+                                </a>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
