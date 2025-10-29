@@ -1,9 +1,11 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using Microsoft.EntityFrameworkCore;
+using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
 namespace TvcDay09LabCF.Models
 {
     [Table("TvcLoai_San_Pham")]
+    [Index(nameof(tvcMaLoai), IsUnique = true)]
     public class TvcLoai_San_Pham
     {
         [Key]
